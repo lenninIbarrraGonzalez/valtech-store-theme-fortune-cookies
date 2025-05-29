@@ -37,6 +37,9 @@
       ]
     }
   },
+  "flex-layout.row#cookis": {
+    "children": ["fortune-cookies"]
+  },
   "slider-layout#demo-images": {
     "props": {
       "itemsPerPage": {
@@ -52,7 +55,7 @@
 
   "rich-text#shelf-title": {
     "props": {
-      "text": "## Summer",
+      "text": "## Fortune Cookies",
       "blockClass": "shelfTitle"
     }
   },
@@ -95,14 +98,14 @@
 
   "rich-text#question": {
     "props": {
-      "text": "**This is an example store built using the VTEX platform.\nWant to know more?**",
+      "text": "**Un mensaje positivo a un clic de distancia**",
       "blockClass": "question"
     }
   },
 
   "rich-text#link": {
     "props": {
-      "text": "\n**Reach us at**\nwww.vtex.com.br",
+      "text": "\n**Haz clic, sonríe, repite**",
       "blockClass": "link"
     }
   }
