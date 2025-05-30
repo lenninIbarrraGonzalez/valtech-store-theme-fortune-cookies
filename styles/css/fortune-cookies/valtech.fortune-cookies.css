@@ -1,0 +1,85 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.containerInfo {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.cookieIcon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.buttonSend {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.generatingContainer {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.fortuneCard {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  border: 2px solid #f0c040;
+  border-radius: 10px;
+  background-color: #fffbf0;
+  text-align: center;
+}
+
+.fortuneTitle {
+  color: #d97706;
+  margin-bottom: 1rem;
+}
+
+.fortuneText {
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #374151;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+}
+
+.luckySection {
+  margin-top: 1rem;
+}
+
+.luckyNum {
+  color: #059669;
+  font-size: 1rem;
+}
+
+.cookieId {
+  color: #6b7280;
+  display: block;
+  margin-top: 0.5rem;
+}
+
+.mainButton {
+  font-size: 1.1rem;
+  padding: 0.75rem 1.5rem;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+.buttonDisabled {
+  background-color: #9ca3af;
+  cursor: not-allowed;
+}
+
+.buttonEnabled {
+  background-color: #f59e0b;
+  cursor: pointer;
+}
+
+.buttonEnabled:hover {
+  background-color: #d97706;
+}
