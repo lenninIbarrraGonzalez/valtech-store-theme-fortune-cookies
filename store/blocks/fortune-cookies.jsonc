@@ -1,0 +1,23 @@
+{
+  "store.custom#fortune-cookies": {
+    "children": ["flex-layout.row#container-fortune-cookies"]
+  },
+  "flex-layout.row#container-fortune-cookies": {
+    "children": ["flex-layout.col#container-fortune-cookies"],
+    "props": {
+      "blockClass": "container-row-fortune-cookies"
+    }
+  },
+  "flex-layout.col#container-fortune-cookies": {
+    "children": ["rich-text#fortune-cookies", "fortune-cookies"],
+    "props": {
+      "blockClass": "container-col-fortune-cookies"
+    }
+  },
+  "rich-text#fortune-cookies": {
+    "props": {
+      "text": "## ¡Hoy es un buen día para tener suerte!",
+      "blockClass": "title-page-fortune-cookies"
+    }
+  }
+}

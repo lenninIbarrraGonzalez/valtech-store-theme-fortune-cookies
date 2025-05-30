@@ -7,17 +7,12 @@
       "flex-layout.row#deals",
       "__fold__",
       "rich-text#shelf-title",
-      "flex-layout.row#fortune-cookies",
       "flex-layout.row#shelf",
       "info-card#home",
       "rich-text#question",
       "rich-text#link",
       "newsletter"
     ]
-  },
-
-  "flex-layout.row#fortune-cookies": {
-    "children": ["fortune-cookies"]
   },
 
   "list-context.image-list#demo": {
