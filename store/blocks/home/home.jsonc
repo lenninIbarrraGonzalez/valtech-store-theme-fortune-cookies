@@ -37,9 +37,6 @@
       ]
     }
   },
-  "flex-layout.row#cookis": {
-    "children": ["fortune-cookies"]
-  },
   "slider-layout#demo-images": {
     "props": {
       "itemsPerPage": {
@@ -55,7 +52,7 @@
 
   "rich-text#shelf-title": {
     "props": {
-      "text": "## Fortune Cookies",
+      "text": "## Fortune Cookies xxx",
       "blockClass": "shelfTitle"
     }
   },

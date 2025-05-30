@@ -1,8 +1,0 @@
-{
-  "store.custom#fortune-cookies": {
-    "blocks": ["flex-layout.row#fortune-cookies"]
-  },
-  "flex-layout.row#fortune-cookies": {
-    "children": ["rich-text#about-us"]
-  }
-}
