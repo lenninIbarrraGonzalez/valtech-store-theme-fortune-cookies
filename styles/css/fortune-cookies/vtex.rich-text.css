@@ -1,0 +1,13 @@
+.heading--title-page-fortune-cookies {
+  font-size: 1.5rem;
+  color: #f59e0b;
+  text-align: center;
+  padding: 10px 20px;
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 40em) {
+  .heading--title-page-fortune-cookies {
+    font-size: 2rem;
+  }
+}

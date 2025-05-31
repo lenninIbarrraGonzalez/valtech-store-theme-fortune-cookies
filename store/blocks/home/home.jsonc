@@ -27,7 +27,8 @@
         },
         {
           "image": "https://storecomponents.vteximg.com.br/arquivos/banner-decoration.png",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-decoration-mobile.png"
+          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-decoration-mobile.png",
+          "link": { "url": "/fortune-cookies" }
         }
       ]
     }
