@@ -1,0 +1,19 @@
+.infoCardHeadline--info-card-home {
+  font-size: 0.9rem;
+}
+
+:global(.vtex-store-components-3-x-infoCardCallActionContainer)
+  :global(.vtex-button) {
+  font-size: 0.9rem;
+}
+
+@media only screen and (min-width: 640px) {
+  .infoCardHeadline--info-card-home {
+    font-size: 2rem;
+  }
+
+  :global(.vtex-store-components-3-x-infoCardCallActionContainer)
+    :global(.vtex-button) {
+    font-size: 1.2rem;
+  }
+}
